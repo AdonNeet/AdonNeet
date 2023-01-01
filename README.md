@@ -1,3 +1,4 @@
+<hr style="background:#F87431; border:0; height:7px" />
 <h1 align= "center">
   <b>
     AdonNeet
@@ -12,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&layout=compact&langs_count=8&theme=tokyonight"/>-->
 </p>
-<br><br><hr style="background:#F87431; border:0; height:7px" />
+<br><br>
 <h2 align= "center">
   <b>
     My Waifu
