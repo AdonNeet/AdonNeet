@@ -3,7 +3,9 @@
 > ### Hello, my name is AdonNeet  
 > ### Yeah..... I am Weeb  
    
-![Alt text](https://media.discordapp.net/attachments/736546127075213392/1052531677265670214/Sinon_85speed_640x360.gif](https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) =x180 "My Stat") ![Alt text](https://media.discordapp.net/attachments/736546127075213392/1052531677265670214/Sinon_85speed_640x360.gif](https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&layout=compact&langs_count=8&theme=tokyonight) =x180 "My Skill")  
+[<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>](https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&layout=compact&langs_count=8&theme=tokyonight" height="180"/>]([image2.png](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&layout=compact&langs_count=8&theme=tokyonight))  
+  
   
   
 There is Shino Asada  
