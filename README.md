@@ -14,7 +14,7 @@
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&layout=compact&theme=tokyonight"/>
   <br><br>
 </p>
-![GitHub Snake dark](https://raw.githubusercontent.com/AdonNeet/AdonNeet/output/contrib-snek-yami.svg#gh-dark-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <br><br>
 <h2 align= "center">
   <b>
