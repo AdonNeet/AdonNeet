@@ -13,7 +13,7 @@
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&layout=compact&theme=tokyonight"/>
   <br><br>
-  <img height="150px" src="https://raw.githubusercontent.com/its0din-ai/AdonNeet/output/contrib-snek-yami.svg#gh-dark-mode-only"/>
+  <img height="150px" src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/output/contrib-snek-yami.svg#gh-dark-mode-only"/>
 </p>
 <br><br>
 <h2 align= "center">
