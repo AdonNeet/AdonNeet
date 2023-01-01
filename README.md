@@ -12,10 +12,13 @@
 <p>
   There is Shino Asada <br>
 </p>
-  <img align="center" src="https://media.discordapp.net/attachments/736546127075213392/1052531677265670214/Sinon_85speed_640x360.gif"/>  
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/736546127075213392/1052531677265670214/Sinon_85speed_640x360.gif"/>  
   <br>
+</p>
 <p>
   There is Hinata Kaho <br>
 </p>
+<p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/736546127075213392/1052519488819581040/HinataKaho_75speed.gif"]
-
+</p>
