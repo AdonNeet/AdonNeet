@@ -1,4 +1,4 @@
-<hr style="background:#F87431; border:0; height:7px" />
+<hr style="background:#F87431; border:1; height:7px" />
 <h1 align= "center">
   <b>
     AdonNeet
@@ -19,17 +19,17 @@
     My Waifu
   </b>
 </h2>
-<p>
+<h4>
   There is Shino Asada <br>
-</p>
+</h4>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/736546127075213392/1052531677265670214/Sinon_85speed_640x360.gif"/>  
   <br>
 </p>
-<p>
+<h4>
   There is Hinata Kaho <br>
-</p>
+</h4>
 <p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/736546127075213392/1052519488819581040/HinataKaho_75speed.gif"]
 </p>
-<hr style="background:#F87431; border:0; height:7px" />
+<hr style="background:#F87431; border:1; height:7px" />
