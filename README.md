@@ -1,4 +1,4 @@
-<hr style="background:#F87431; border:1; height:7px" />
+<hr style="background:#F87431; border:1; height:9px" />
 <h1 align= "center">
   <b>
     AdonNeet
@@ -33,4 +33,3 @@
 <p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/736546127075213392/1052519488819581040/HinataKaho_75speed.gif"]
 </p>
-<hr style="background:#F87431; border:1; height:7px" />
