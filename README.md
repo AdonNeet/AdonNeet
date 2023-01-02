@@ -33,4 +33,5 @@
 <p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/736546127075213392/1052519488819581040/HinataKaho_75speed.gif"]
 </p>
+<br>
 <hr style="background:#F87431; border:1; height:9px" /><br><br>
