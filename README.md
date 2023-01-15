@@ -6,7 +6,7 @@
 </h1>
 <h3>
   Hello, my name is AdonNeet <br>
-  Yeah...... I am Weeb                              
+  Yeah...... I am Weeb and also programming enthusiast                             
 </h3>
 <br> <br>
 <p align="center">
