@@ -10,7 +10,7 @@
 </h3>
 <br> <br>
 <p align="center">
-  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&layout=compact&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdonNeet&layout=compact&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true"/>
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdonNeet&theme=tokyonight&layout=compact"/>
   <br><br>
 </p>
