@@ -15,6 +15,9 @@
   <a href="https://github.com/AdonNeet"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=AdonNeet&hide_border=true&langs_count=8&custom_title=Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="AdonNeet ::: Top 8 Langs" /></a><br>
   <br><br>
 </p>
+
+[![An image of @adonneet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adonneet)](https://holopin.io/@adonneet)
+
 <br><br>
 <h2 align= "center">
   <b>
