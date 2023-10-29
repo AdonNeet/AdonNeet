@@ -10,13 +10,14 @@
 </h3>
 <br> <br>
 <p align="center">
-  <a href="https://github.com/AdonNeet"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdonNeet&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="AdonNeet ::: Streaks" /></a><br><br/>
-  <a href="https://github.com/AdonNeet"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api?username=AdonNeet&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="AdonNeet ::: Profile Statistics" /></a>
-  <a href="https://github.com/AdonNeet"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=AdonNeet&hide_border=true&langs_count=8&custom_title=Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="AdonNeet ::: Top 8 Langs" /></a><br>
+  <a href="https://github.com/AdonNeet"><img align="center" height="190px" width="490px" src="https://github-readme-streak-stats.herokuapp.com?user=AdonNeet&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="AdonNeet ::: Streaks" /></a>
+  <a href="https://github.com/AdonNeet"><img align="center" height="190px" width="490px" src="https://readme-status-bay.vercel.app/api?username=AdonNeet&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="AdonNeet ::: Profile Statistics" /></a>
+  <br><br/>
+  <a href="https://roadmap.sh"><img align="center" height="190px" src="https://api.roadmap.sh/v1-badge/wide/653dc139602c6661a5722560?variant=dark" alt="AdonNeet Roadmap" /></a>
+  <a href="https://github.com/AdonNeet"><img align="center" height="190px" width="470px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=AdonNeet&hide_border=true&langs_count=8&custom_title=Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="AdonNeet ::: Top 8 Langs" /></a>
   <br><br>
+  <a href="https://holopin.io/@adonneet"><img align="center" width="980px" src="https://holopin.me/adonneet" alt="AdonNeet Holopin Badges" /></a>
 </p>
-
-[![An image of @adonneet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adonneet)](https://holopin.io/@adonneet)
 
 <br><br>
 <h2 align= "center">
