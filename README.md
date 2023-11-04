@@ -49,3 +49,6 @@
 </p>
 <br>
 <hr style="background:#F87431; border:1; height:9px" /><br><br>
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=AdonNeet&label=Visitor%20Counter&color=12&icon=1&pretty=true" />
+</a>
