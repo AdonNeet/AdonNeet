@@ -22,7 +22,7 @@
   <br><br>
   Counted Visitor
   <br>
-  <a href="https://github.com/AdonNeet"><img height="170px" src="https://count.getloli.com/get/@:AdonNeet" alt="Visitor Counter" /></a>
+  <a href="https://github.com/AdonNeet"><img height="170px" src="https://count.getloli.com/get/@:AdonNeet?theme=asoul" alt="Visitor Counter" /></a>
 </p>
 
 <br><br>
