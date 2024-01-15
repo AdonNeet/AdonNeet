@@ -19,6 +19,10 @@
   <a href="https://github.com/AdonNeet"><img align="center" height="170px" width="390px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=AdonNeet&hide_border=true&langs_count=8&custom_title=Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="AdonNeet ::: Top 8 Langs" /></a>
   <br><br>
   <a href="https://holopin.io/@adonneet"><img align="center" width="840px" src="https://holopin.me/adonneet" alt="AdonNeet Holopin Badges" /></a>
+  <br><br>
+  Counted Visitor
+  <br>
+  <a href="https://github.com/AdonNeet"><img height="170px" src="https://count.getloli.com/get/@:AdonNeet" alt="Visitor Counter" /></a>
 </p>
 
 <br><br>
@@ -49,6 +53,11 @@
 </p>
 <br>
 <hr style="background:#F87431; border:1; height:9px" /><br><br>
-<a href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=AdonNeet&label=Visitor%20Counter&color=12&icon=1&pretty=true" />
-</a>
+<p align="right"> 
+  Old Visitor Counter &nbsp;&nbsp;
+  <br>
+  <a href="https://visitcount.itsvg.in">
+    <img align="right" src="https://visitcount.itsvg.in/api?id=AdonNeet&label=Visitor%20Counter&color=12&icon=1&pretty=true" />
+  </a>
+</p>
+
