@@ -1,3 +1,7 @@
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -999; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/arch-linux-carto.jpg');]{x0000}$}
+```
+
 <hr style="background:#F87431; border:1; height:9px" />
 <h1 align= "center">
   <b>
