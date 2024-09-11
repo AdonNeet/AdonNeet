@@ -29,6 +29,20 @@
 
 <h2 align= "center">
   <b>
+    Collection
+  </b>
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/AdonNeet_IMPHNEN.png" style="width: 580px; height: auto;">
+  <br>
+  <div align="right">By the way, this one is just a joke</div>
+</p>
+
+
+<br><br>
+
+<h2 align= "center">
+  <b>
     My Waifu
   </b>
 </h2>
