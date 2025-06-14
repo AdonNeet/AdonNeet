@@ -50,7 +50,7 @@
     There is Shino Asada <br>
 </h4>
 <p align="center">
-  <img src="https://images-ng.pixai.art/images/orig/bfc61637-ce46-4407-b6ae-77009a14ebff"/>  
+  <img src="https://images-ng.pixai.art/images/orig/bfc61637-ce46-4407-b6ae-77009a14ebff" style="width: 720px; height: auto;">  
   <br>
 </p>
 <h4>
