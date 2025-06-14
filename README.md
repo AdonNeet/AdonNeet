@@ -25,46 +25,39 @@
   <a href="https://github.com/AdonNeet"><img height="170px" src="https://count.getloli.com/get/@:AdonNeet?theme=asoul" alt="Visitor Counter" /></a>
 </p>
 
-<br><br>
+<br>
 
-<h2 align= "center">
-  <b>
-    Collection
-  </b>
-</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/AdonNeet_IMPHNEN.png" style="width: 580px; height: auto;">
-  <br>
-  <div align="right">By the way, this one is just a joke</div>
-</p>
+<details align="center">
+  <summary><h2><b>Collection</b></h2></summary>
+  <blockquote>
+    <h2></h2>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/AdonNeet_IMPHNEN.png" style="width: 580px; height: auto;">
+      <div align="right">P.S ~ By the way, this one is just a joke</div>
+    </p>
+  </blockquote>
+</details>
+
+<details align="center">
+  <summary><h2><b>My Waifu</b></h2></summary>
+  <blockquote style="background-color: #1a1a1a; padding: 16px; border-radius: 8px;">
+    <h2></h2>
+    <h3 style="color: #FFFFFF;">There is Shino Asada</h3>
+    <p align="center">
+      <img src="https://images-ng.pixai.art/images/orig/bfc61637-ce46-4407-b6ae-77009a14ebff" style="width: 720px; height: auto;">
+    </p>
+    <h3 style="color: #FFFFFF;">There is Hinata Kaho</h3>
+    <p align="center">
+      <img src="https://images-ng.pixai.art/images/orig/b4f37194-0169-47e7-a433-a16b7cef27a0" style="width: 720px; height: auto;">
+    </p>
+    <h3 style="color: #FFFFFF;">There is Shima Rin</h3>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/ShimaRin_65speed_640x360px.gif" style="width: 720px; height: auto;">
+    </p>
+  </blockquote>
+</details>
 
 
-<br><br>
-
-<h2 align= "center">
-  <b>
-    My Waifu
-  </b>
-</h2>
-<h4>
-    There is Shino Asada <br>
-</h4>
-<p align="center">
-  <img src="https://images-ng.pixai.art/images/orig/bfc61637-ce46-4407-b6ae-77009a14ebff" style="width: 720px; height: auto;">  
-  <br>
-</p>
-<h4>
-    There is Hinata Kaho <br>
-</h4>
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/HinataKaho_75speed.gif"]/>
-</p>
-<h4>
-    There is Shima Rin <br>
-</h4>
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/ShimaRin_65speed_640x360px.gif"]/>
-</p>
 <br>
 <hr style="background:#F87431; border:1; height:9px" /><br><br>
 <p align="right"> 
