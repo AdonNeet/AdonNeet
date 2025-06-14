@@ -52,7 +52,7 @@
     </p>
     <h3 style="color: #FFFFFF;">There is Shima Rin</h3>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/AdonNeet/AdonNeet/main/profile-content/ShimaRin_65speed_640x360px.gif" style="width: 720px; height: auto;">
+      <img src="https://images-ng.pixai.art/images/orig/99ea67fe-39f4-4c60-9a38-6d8ea7d9877a" style="width: 720px; height: auto;">
     </p>
   </blockquote>
 </details>
