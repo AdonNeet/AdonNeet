@@ -56,7 +56,7 @@
     </p>
     <h3 style="color: #FFFFFF;">#4 There is Hinata Kaho</h3>
     <p align="center">
-      <img src="https://images-ng.pixai.art/images/orig/b4f37194-0169-47e7-a433-a16b7cef27a0" style="width: 720px; height: auto;">
+      <img src="https://images-ng.pixai.art/images/orig/7647b383-64a0-4cf4-a22a-0718e15ca07d" style="width: 720px; height: auto;">
     </p>
     <h3 style="color: #FFFFFF;">#5 There is Shima Rin</h3>
     <p align="center">
