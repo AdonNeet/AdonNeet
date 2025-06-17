@@ -50,15 +50,19 @@
     <p align="center">
       <img src="https://images-ng.pixai.art/images/orig/80835cf4-d6ed-4af3-8896-e9844f4da514" style="width: 720px; height: auto;">
     </p>
-    <h3 style="color: #FFFFFF;">#3 There is Asada Shino</h3>
+    <h3 style="color: #FFFFFF;">#3 There is Hoshino Miyako</h3>
     <p align="center">
-      <img src="https://images-ng.pixai.art/images/orig/bfc61637-ce46-4407-b6ae-77009a14ebff" style="width: 720px; height: auto;">
+      <img src="https://images-ng.pixai.art/images/orig/88806078-e576-4a8a-8d10-ae810293f4be" style="width: 720px; height: auto;">
     </p>
     <h3 style="color: #FFFFFF;">#4 There is Hinata Kaho</h3>
     <p align="center">
       <img src="https://images-ng.pixai.art/images/orig/7647b383-64a0-4cf4-a22a-0718e15ca07d" style="width: 720px; height: auto;">
     </p>
-    <h3 style="color: #FFFFFF;">#5 There is Shima Rin</h3>
+    <h3 style="color: #FFFFFF;">#5 There is Asada Shino</h3>
+    <p align="center">
+      <img src="https://images-ng.pixai.art/images/orig/bfc61637-ce46-4407-b6ae-77009a14ebff" style="width: 720px; height: auto;">
+    </p>
+    <h3 style="color: #FFFFFF;">#6 There is Shima Rin</h3>
     <p align="center">
       <img src="https://images-ng.pixai.art/images/orig/99ea67fe-39f4-4c60-9a38-6d8ea7d9877a" style="width: 720px; height: auto;">
     </p>
